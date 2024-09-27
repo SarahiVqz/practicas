@@ -1,0 +1,10 @@
+/*DOCUMENTO CSS*/
+
+* {margin: 0;
+padding: 0;}
+
+h1 {background-color: blueviolet;
+color: aliceblue;
+text-align: center;
+padding: 15px 0px; 
+font-family: "Oswald", sans-serif;}
